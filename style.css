@@ -783,13 +783,13 @@ footer {
   /* section iii end */
   /* section iv */
   section.iv {
-    width: 1263px;
+    width: 100%;
     overflow: hidden;
   }
   /* section iv end */
   /* footer */
   footer {
-    width: 1263px;
+    width: 100%;
     overflow: hidden;
     padding-bottom: 95px;
   }
